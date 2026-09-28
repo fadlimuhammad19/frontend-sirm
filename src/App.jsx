@@ -25,7 +25,7 @@ import Login from "./pages/Login";
 import PortalDashboard from "./pages/portal/PortalDashboard";
 import RiwayatSaya from "./pages/portal/RiwayatSaya";
 import JadwalSaya from "./pages/portal/JadwalSaya";
-import RawatInap from "./pages/RawatInap";
+
 import JadwalDokter from "./pages/JadwalDokter";
 import RekamMedis from "./pages/RekamMedis";
 import Antrian from "./pages/Antrian";
@@ -46,6 +46,7 @@ import JadwalShift from "./pages/JadwalShift";
 import Absensi from "./pages/Absensi";
 import ManajemenKamar from "./pages/ManajemenKamar";
 import DashboardAnalitik from "./pages/DashboardAnalitik";
+import RawatInap from "./pages/Rawatinap";
 
 function PageWrapper({ children }) {
   return (
